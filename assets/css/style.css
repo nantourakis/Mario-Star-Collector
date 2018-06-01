@@ -1,0 +1,56 @@
+
+body {
+    background-image: url("https://i.makeagif.com/media/9-20-2016/T_ShiR.gif");
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+
+.shells {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 200px;
+}
+
+.star {
+    border: 1px solid green;
+    height: 185px;
+    width: 185px;
+    box-shadow: 3px 3px black;
+}
+
+.header {
+    color: red;
+    text-align: center;
+    
+}
+     
+
+.paragraph {
+    color:red;
+}
+
+p {
+    text-align: center;
+    color: black;
+    font-weight: bolder;
+    text-shadow: white 0px 0px 10px;
+}
+
+#result {
+
+    font-weight: bolder;
+    text-shadow: white 0px 0px 10px;
+
+}
+
+.container {
+
+    border-style: solid;
+    border-color:blue;
+    border-width: 8px;
+}
